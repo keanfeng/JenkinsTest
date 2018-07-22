@@ -8,8 +8,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
-<%=new Apple().getAppName() %>
-
+Apple.appName === <%=new Apple().getAppName() %>
 </body>
 </html>

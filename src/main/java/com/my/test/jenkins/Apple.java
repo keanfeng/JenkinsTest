@@ -2,7 +2,7 @@ package com.my.test.jenkins;
 
 public class Apple {
 
-	private String appName = "good app";
+	private String appName = "jenkinsApp";
 
 	public String getAppName() {
 		return appName;
